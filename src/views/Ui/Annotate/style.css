@@ -1,0 +1,28 @@
+.annotate {
+  margin: 80px 0px;
+}
+.annotate-text {
+  border-bottom: 1px solid gainsboro;
+  padding: 20px 0px;
+}
+.ann-text {
+  padding: 20px 0px;
+  color: rgb(242, 227, 227);
+  font-size: 18px;
+}
+
+.ann-title {
+  font-size: 4rem;
+  line-height: 1.5;
+}
+.learn {
+  padding: 20px 0px;
+  cursor: pointer;
+  font-size: 18px;
+}
+.ann-right {
+  background-color: rgb(231, 228, 228);
+  border-radius: 20px;
+  padding: 30px;
+  margin: 20px;
+}

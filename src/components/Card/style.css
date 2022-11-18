@@ -1,0 +1,8 @@
+.banner-card {
+  display: flex;
+  gap: 30px;
+  width: 100%;
+}
+.banner-card > div {
+  width: 50%;
+}

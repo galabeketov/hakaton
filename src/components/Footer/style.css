@@ -1,0 +1,15 @@
+ul li {
+  list-style-type: none;
+}
+ul > span {
+  color: gray;
+  font-size: 16px;
+}
+ul > li {
+  color: gray;
+}
+.f-left {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 60px;
+}
