@@ -1,0 +1,16 @@
+.upload-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    flex-direction: column;
+    gap: 20px;
+}
+.drag-drop-files{
+    height: 140px !important;
+    width: 300px !important;
+}
+.upload{
+    border-radius: 30px !important;
+    padding: 8px 16px !important;
+}
